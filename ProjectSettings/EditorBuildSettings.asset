@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: 8dd253ec174619e4cb5bd877e5a81532
+  - enabled: 1
+    path: Assets/Scenes/Intro's/Intro_0.unity
+    guid: efbe4105245ca1d448197138e2c658cd
+  - enabled: 1
+    path: Assets/Scenes/ChooseLevel.unity
+    guid: 89386f4f4ae5fd546bed4b7c3b61cb9d
+  - enabled: 1
+    path: Assets/Scenes/ChooseExer.unity
+    guid: ac46d79d2cf94db4783d1343a4c0182c
+  - enabled: 1
+    path: Assets/Scenes/Intro's/Intro_1.unity
+    guid: 34e40c19212187344990b936741ab19a
+  - enabled: 1
+    path: Assets/Scenes/Intro's/Intro_2.unity
+    guid: db3a80fc2c3842841bfa5a5f5764d9fb
+  - enabled: 1
+    path: Assets/Scenes/Intro's/Intro_3.unity
+    guid: de3aeaecc4c29ad4798b43914ef867a0
+  - enabled: 1
+    path: Assets/Scenes/Intro's/Intro_4.unity
+    guid: 96bdac736669942419873c5fe383b9f0
+  - enabled: 1
+    path: Assets/Scenes/GameLetters/Game_Letter_1.unity
+    guid: 28a72f3ee86867441a974693d564717d
+  - enabled: 1
+    path: Assets/Scenes/GameLetters/Game_Letter_2.unity
+    guid: b864bd54217acab47b5ab592fcbe6cd9
+  - enabled: 1
+    path: Assets/Scenes/GameLetters/Game_Letter_3.unity
+    guid: bc439d112f6b86248bebd6dfd6a6a6d7
+  - enabled: 1
+    path: Assets/Scenes/GameLetters/Game_Letter_Finish.unity
+    guid: bf94b3585dafc50459cb47b08b08bf81
+  - enabled: 1
+    path: Assets/Scenes/GameSlogs/Game_Slog_1.unity
+    guid: f9a0fe2701345684cae75b4ac67ceb7c
+  - enabled: 1
+    path: Assets/Scenes/GameSlogs/Game_Slog_2.unity
+    guid: 3d8ec704d34479f428e4b1ac71acc274
+  - enabled: 1
+    path: Assets/Scenes/GameSlogs/Game_Slog_3.unity
+    guid: e62de93c6ebbe4347b2c1c457c3bb1dd
+  - enabled: 1
+    path: Assets/Scenes/GameSlogs/Game_Slog_Finish.unity
+    guid: 81186cafefbadba4e936ca4082041ebf
+  - enabled: 1
+    path: Assets/Scenes/Word/Game_Word_1.unity
+    guid: 3f9a5909aa637e943bb17fc532bcb1e5
+  - enabled: 1
+    path: Assets/Scenes/Word/Game_Word_2.unity
+    guid: cda1e547ef50e9f449ab8410241f72fb
+  - enabled: 1
+    path: Assets/Scenes/Word/Game_Word_3.unity
+    guid: 93258ccbdbf0bdb4599d586c6ca177da
+  - enabled: 1
+    path: Assets/Scenes/Word/Game_Word_Finish.unity
+    guid: a9c455c227f129d4698cdae5ed1f8299
+  - enabled: 1
+    path: Assets/Scenes/GameImageToWord/Game_Image_1.unity
+    guid: 9657f00740a4f2249b086d4064ac4593
+  - enabled: 1
+    path: Assets/Scenes/GameImageToWord/Game_Image_2.unity
+    guid: baf8340c6d0fc85408f9b89da45e9a8b
+  - enabled: 1
+    path: Assets/Scenes/GameImageToWord/Game_Image_Finish.unity
+    guid: bf6258a012109894497f67b3a22b1381
+  - enabled: 1
+    path: Assets/Scenes/Finish_Bad.unity
+    guid: 5ee6893c6b4c4f84ebb116a4f2ee6555
+  m_configObjects: {}
